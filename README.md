@@ -8,7 +8,7 @@ This tool will help you to hide your EXE payload or software. it's very simple t
 
 HIDDENEXE is a tool helps you to completely hide your EXE payload. This tool was made for Windows users.
 
-Video Proof: https://youtu.be/WZywKXPTaek
+Video Proof (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/WZywKXPTaek
 
 ### ⚙️ FEATURES
 
@@ -22,7 +22,7 @@ Video Proof: https://youtu.be/WZywKXPTaek
 2. Select the EXE file that you want's to hide and press CHANGE.
 3. Enjoy!
 
-To learn more please watch this video: https://youtu.be/WZywKXPTaek
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/WZywKXPTaek
 
 For feature recommendation please add it on the "Issues" tab or contact us:
 https://www.ctoslab.com/support/
